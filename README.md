@@ -1,5 +1,8 @@
 # Nombre del Proyecto
 
+# Integrantes
+Kevin Zapata
+
 ## Descripción
 Descripción del proyecto y su propósito.
 
