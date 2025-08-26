@@ -2,7 +2,7 @@
 
 # Integrantes
 Kevin Zapata
-
+Carolina Zuluaga
 ## Descripción
 Descripción del proyecto y su propósito.
 
