@@ -1,10 +1,23 @@
 # Nombre del Proyecto
-
+diviXpress
 # Integrantes
 Kevin Zapata
 
 ## Descripción
-Descripción del proyecto y su propósito.
+diviXpress es una aplicación web desarrollada en React que permite realizar conversiones de divisas en tiempo real de forma ágil y confiable.
+La app soporta las 10 monedas más utilizadas a nivel mundial, incluyendo el Peso Colombiano (COP), con información obtenida de una API de tasas de cambio actualizadas.
+
+Con un diseño clásico pero moderno, ofrece:
+
+Conversión rápida y precisa entre monedas.
+
+Consulta de tasas de cambio internacionales.
+
+Historial de conversiones realizadas.
+
+Interfaz intuitiva y responsiva, adaptable a dispositivos móviles, tablets y computadores.
+
+Una herramienta ideal para viajeros, estudiantes, comerciantes y cualquier persona que necesite convertir monedas de manera sencilla y veloz.
 
 ## Características
 - Lista de funcionalidades principales
@@ -50,7 +63,7 @@ Descripción del proyecto y su propósito.
 ## Contacto
 ### Información del Grupo
 - **Institución**: SENA
-- **Programa**: [Nombre del programa]
-- **Ficha**: [Número de ficha]
-- **Instructor**: [Nombre del instructor]
-- **Período**: [Año - Trimestre]
+- **Programa**: Analisis y desarrollo de software
+- **Ficha**: 3114227
+- **Instructor**: Jhon Fredy Valencia
+- **Período**: 2025-3 trimestre
