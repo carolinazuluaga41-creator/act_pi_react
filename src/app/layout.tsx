@@ -1,7 +1,5 @@
 import "./globals.css";
-import Header from "@/components/layout/Header";
-import Navbar from "@/components/layout/Navbar";
-import Footer from "@/components/layout/Footer";
+import ClientLayout from "./ClientLayout";
 
 export const metadata = {
   title: "diviXpress",
@@ -11,11 +9,8 @@ export const metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="es">
-      <body className="flex flex-col min-h-screen">
-        <Header />
-        <Navbar />
-        <main className="flex-grow container mx-auto p-4">{children}</main>
-        <Footer />
+      <body>
+        <ClientLayout>{children}</ClientLayout>
       </body>
     </html>
   );

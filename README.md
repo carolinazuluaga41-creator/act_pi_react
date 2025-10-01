@@ -3,6 +3,7 @@ diviXpress
 # Integrantes
 Kevin Zapata
 Carolina Zuluaga
+Helen Guerra
 ## Descripción
 diviXpress es una aplicación web desarrollada en React que permite realizar conversiones de divisas en tiempo real de forma ágil y confiable.
 La app soporta las 10 monedas más utilizadas a nivel mundial, incluyendo el Peso Colombiano (COP), con información obtenida de una API de tasas de cambio actualizadas.
